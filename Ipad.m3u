@@ -1,5 +1,15 @@
 #EXTM3U  Zhixharo
 
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50923578561_7a099bc4b6.jpg" group-title="Animacion" ,Locomotion 
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50923679456_336f24c4de.jpg" group-title="Animacion" ,Kanade TV 
+http://207.246.84.143:8080/hls/Kanade.m3u8
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50927910872_bec3199958_o.png" group-title="Animacion" ,Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50922941363_0384d01f2a.jpg" group-title="Animacion" ,Ahhh! Real Monsters
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50922978763_9da2529bf3.jpg" group-title="Animacion" ,Simpsons 
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50922978763_9da2529bf3.jpg" group-title="Animacion" ,One World Radio
 https://www.youtube.com/watch?v=DY_rFed96mg
