@@ -11,5 +11,14 @@ https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50922978763_9da2529bf3.jpg" group-title="Animacion" ,Simpsons 
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50923858582_90144eca9d.jpg" group-title="Animacion" ,Boomerang
+http://8.9.4.128:8080/hls/boomerangtv.m3u8
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50923744086_e8a3aa94fc.jpg" group-title="Animacion" ,Cachipum 
+https://tls.cdnz.cl/cachipuntv/live/chunklist_w72379467.m3u8
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50928120142_ea47d54bbb_o.png" group-title="Animacion" ,Boing
+https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50922978763_9da2529bf3.jpg" group-title="Animacion" ,One World Radio
 https://www.youtube.com/watch?v=DY_rFed96mg
+
+
